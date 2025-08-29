@@ -2,7 +2,7 @@ function BUYPOISONS_LOADPOISONS()
 
 BuyPoisonsItemInfo={};
 
-for i=1, 9, 1 do
+for i=1, 11, 1 do
 	BuyPoisonsItemInfo[i]={};
 	BuyPoisonsItemInfo[i]["Components"]={};
 	BuyPoisonsItemInfo[i]["Components"][1]={};
