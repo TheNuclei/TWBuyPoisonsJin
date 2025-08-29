@@ -90,28 +90,15 @@ BuyPoisonsItemInfo[20]["name"] = "Verkr\195\188ppelndes Gift";
 BuyPoisonsItemInfo[21]["name"] = "Sofort wirkendes Gift ";
 BuyPoisonsItemInfo[22]["name"] = "Blitzstrahlpulver";
 
-BuyPoisonsItemInfo[1]["shortkey"] = "dp5";
-BuyPoisonsItemInfo[2]["shortkey"] = "ip6";
-BuyPoisonsItemInfo[3]["shortkey"] = "wp4";
-BuyPoisonsItemInfo[4]["shortkey"] = "mp3";
-BuyPoisonsItemInfo[5]["shortkey"] = "cp2";
-BuyPoisonsItemInfo[6]["shortkey"] = "ap1";
-BuyPoisonsItemInfo[7]["shortkey"] = "dp4";
-BuyPoisonsItemInfo[8]["shortkey"] = "ip5";
-BuyPoisonsItemInfo[9]["shortkey"] = "wp3";
-BuyPoisonsItemInfo[10]["shortkey"] = "dp3";
-BuyPoisonsItemInfo[11]["shortkey"] = "ip4";
-BuyPoisonsItemInfo[12]["shortkey"] = "wp2";
-BuyPoisonsItemInfo[13]["shortkey"] = "dp2";
-BuyPoisonsItemInfo[14]["shortkey"] = "mp2";
-BuyPoisonsItemInfo[15]["shortkey"] = "ip3";
-BuyPoisonsItemInfo[16]["shortkey"] = "wp1";
-BuyPoisonsItemInfo[17]["shortkey"] = "dp1";
-BuyPoisonsItemInfo[18]["shortkey"] = "ip2";
-BuyPoisonsItemInfo[19]["shortkey"] = "mp1";
-BuyPoisonsItemInfo[20]["shortkey"] = "cp1";
-BuyPoisonsItemInfo[21]["shortkey"] = "ip1";
-BuyPoisonsItemInfo[22]["shortkey"] = "fp1";
+BuyPoisonsItemInfo[1]["shortkey"] = "dis";
+BuyPoisonsItemInfo[2]["shortkey"] = "inst";
+BuyPoisonsItemInfo[3]["shortkey"] = "cor";
+BuyPoisonsItemInfo[4]["shortkey"] = "deadly";
+BuyPoisonsItemInfo[5]["shortkey"] = "mind";
+BuyPoisonsItemInfo[6]["shortkey"] = "wound";
+BuyPoisonsItemInfo[7]["shortkey"] = "crip";
+BuyPoisonsItemInfo[8]["shortkey"] = "agi";
+BuyPoisonsItemInfo[9]["shortkey"] = "fp1";
 
 
 end
