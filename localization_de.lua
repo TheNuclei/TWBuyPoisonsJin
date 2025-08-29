@@ -65,30 +65,15 @@ BUYPOISONS_SHORTKEY_LEADED_VIAL				="leadedvial";
 BUYPOISONS_SHORTKEY_LETHARGY_ROOT				="lethargyroot";
 BUYPOISONS_SHORTKEY_MAIDENS_ANGUISH				="maidensanguish";
 
-
-
-BuyPoisonsItemInfo[1]["name"] = "T\195\182dliches Gift V";
-BuyPoisonsItemInfo[2]["name"] = "Sofort wirkendes Gift VI";
-BuyPoisonsItemInfo[3]["name"] = "Wundgift IV";
-BuyPoisonsItemInfo[4]["name"] = "Gedanken benebelndes Gift III";
-BuyPoisonsItemInfo[5]["name"] = "Verkr\195\188ppelndes Gift II";
-BuyPoisonsItemInfo[6]["name"]  = "Agitating Poison";
-BuyPoisonsItemInfo[7]["name"] = "T\195\182dliches Gift IV";
-BuyPoisonsItemInfo[8]["name"] = "Sofort wirkendes Gift V";
-BuyPoisonsItemInfo[9]["name"] = "Wundgift III";
-BuyPoisonsItemInfo[10]["name"] = "T\195\182dliches Gift III";
-BuyPoisonsItemInfo[11]["name"] = "Sofort wirkendes Gift IV";
-BuyPoisonsItemInfo[12]["name"] = "Wundgift II";
-BuyPoisonsItemInfo[13]["name"] = "T\195\182dliches Gift II";
-BuyPoisonsItemInfo[14]["name"] = "Gedanken benebelndes Gift II";
-BuyPoisonsItemInfo[15]["name"] = "Sofort wirkendes Gift III";
-BuyPoisonsItemInfo[16]["name"] = "Wundgift ";
-BuyPoisonsItemInfo[17]["name"] = "T\195\182dliches Gift ";
-BuyPoisonsItemInfo[18]["name"] = "Sofort wirkendes Gift II";
-BuyPoisonsItemInfo[19]["name"] = "Gedanken benebelndes Gift";
-BuyPoisonsItemInfo[20]["name"] = "Verkr\195\188ppelndes Gift";
-BuyPoisonsItemInfo[21]["name"] = "Sofort wirkendes Gift ";
-BuyPoisonsItemInfo[22]["name"] = "Blitzstrahlpulver";
+BuyPoisonsItemInfo[1]["name"] 				= "Dissolvent Poison II";
+BuyPoisonsItemInfo[2]["name"] 				= "Sofort wirkendes Gift VI";
+BuyPoisonsItemInfo[3]["name"] 				= "Corrosive Poison II";
+BuyPoisonsItemInfo[4]["name"] 				= "T\195\182dliches Gift V";
+BuyPoisonsItemInfo[5]["name"] 				= "Gedanken benebelndes Gift III";
+BuyPoisonsItemInfo[6]["name"] 				= "Wundgift";
+BuyPoisonsItemInfo[7]["name"] 				= "Verkr\195\188ppelndes Gift II";
+BuyPoisonsItemInfo[8]["name"] 				= "Agitating Poison";
+BuyPoisonsItemInfo[9]["name"]				= "Blitzstrahlpulver";
 
 BuyPoisonsItemInfo[1]["shortkey"] = "dis";
 BuyPoisonsItemInfo[2]["shortkey"] = "inst";
