@@ -71,14 +71,14 @@ BUYPOISONS_SHORTKEY_LEADED_VIAL ="leadedvial";
 BUYPOISONS_SHORTKEY_LETHARGY_ROOT ="lethargyroot";
 BUYPOISONS_SHORTKEY_MAIDENS_ANGUISH ="maidensanguish";
 
-BuyPoisonsItemInfo[1]["name"] 				= "Poison dissolvant II";
-BuyPoisonsItemInfo[2]["name"] 				= "Poison instantan\195\169 VI";
-BuyPoisonsItemInfo[3]["name"] 				= "Poison corrosif II";
-BuyPoisonsItemInfo[4]["name"] 				= "Poison mortel V";
-BuyPoisonsItemInfo[5]["name"] 				= "Distraction mentale III";
-BuyPoisonsItemInfo[6]["name"] 				= "Poison affaiblissant"
-BuyPoisonsItemInfo[7]["name"] 				= "Poison douloureux II";
-BuyPoisonsItemInfo[8]["name"] 				= "Poison agitation";
+BuyPoisonsItemInfo[1]["name"] 				= "Poison Dissolvant II";
+BuyPoisonsItemInfo[2]["name"] 				= "Poison Instantan\195\169 VI";
+BuyPoisonsItemInfo[3]["name"] 				= "Poison Corrosif II";
+BuyPoisonsItemInfo[4]["name"] 				= "Poison Mortel V";
+BuyPoisonsItemInfo[5]["name"] 				= "Distraction Mentale III";
+BuyPoisonsItemInfo[6]["name"] 				= "Poison Affaiblissant"
+BuyPoisonsItemInfo[7]["name"] 				= "Poison Douloureux II";
+BuyPoisonsItemInfo[8]["name"] 				= "Poison Agitation";
 BuyPoisonsItemInfo[9]["name"]				= "Flash Powder";
 
 BuyPoisonsItemInfo[1]["shortkey"] = "dis";
