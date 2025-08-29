@@ -1,4 +1,4 @@
-BuyPoisons - a World of Warcraft (1.12.1) AddOn (modification) adapted for Turtle WoW by Bloodphobos
+BuyPoisons - a World of Warcraft (1.12.1) AddOn (modification) adapted for Turtle WoW by Bloodphobos, Updated for 1.18 by Jin
 ====================================
 
 Installation:
