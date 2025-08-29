@@ -70,20 +70,24 @@ BuyPoisonsItemInfo[1]["name"] 				= "Dissolvent Poison II";
 BuyPoisonsItemInfo[2]["name"] 				= "Instant Poison VI";
 BuyPoisonsItemInfo[3]["name"] 				= "Corrosive Poison II";
 BuyPoisonsItemInfo[4]["name"] 				= "Deadly Poison V";
-BuyPoisonsItemInfo[5]["name"] 				= "Mind-Numbing Poison III";
-BuyPoisonsItemInfo[6]["name"] 				= "Wound Poison";
-BuyPoisonsItemInfo[7]["name"] 				= "Crippling Poison II";
-BuyPoisonsItemInfo[8]["name"] 				= "Agitating Poison";
-BuyPoisonsItemInfo[9]["name"]				= "Flash Powder";
+BuyPoisonsItemInfo[5]["name"] 				= "Corrosive Poison";
+BuyPoisonsItemInfo[6]["name"] 				= "Deadly Poison IV";
+BuyPoisonsItemInfo[7]["name"] 				= "Mind-Numbing Poison III";
+BuyPoisonsItemInfo[8]["name"] 				= "Wound Poison";
+BuyPoisonsItemInfo[9]["name"] 				= "Crippling Poison II";
+BuyPoisonsItemInfo[10]["name"] 				= "Agitating Poison";
+BuyPoisonsItemInfo[11]["name"]				= "Flash Powder";
 
 BuyPoisonsItemInfo[1]["shortkey"] = "dis";
 BuyPoisonsItemInfo[2]["shortkey"] = "inst";
-BuyPoisonsItemInfo[3]["shortkey"] = "cor";
-BuyPoisonsItemInfo[4]["shortkey"] = "deadly";
-BuyPoisonsItemInfo[5]["shortkey"] = "mind";
-BuyPoisonsItemInfo[6]["shortkey"] = "wound";
-BuyPoisonsItemInfo[7]["shortkey"] = "crip";
-BuyPoisonsItemInfo[8]["shortkey"] = "agi";
-BuyPoisonsItemInfo[9]["shortkey"] = "fp1";
+BuyPoisonsItemInfo[3]["shortkey"] = "cor2";
+BuyPoisonsItemInfo[4]["shortkey"] = "deadly2";
+BuyPoisonsItemInfo[5]["shortkey"] = "cor1";
+BuyPoisonsItemInfo[6]["shortkey"] = "deadly1";
+BuyPoisonsItemInfo[7]["shortkey"] = "mind";
+BuyPoisonsItemInfo[8]["shortkey"] = "wound";
+BuyPoisonsItemInfo[9]["shortkey"] = "crip";
+BuyPoisonsItemInfo[10]["shortkey"] = "agi";
+BuyPoisonsItemInfo[11]["shortkey"] = "fp1";
 
 end
