@@ -69,21 +69,25 @@ BuyPoisonsItemInfo[1]["name"] 				= "Dissolvent Poison II";
 BuyPoisonsItemInfo[2]["name"] 				= "Sofort wirkendes Gift VI";
 BuyPoisonsItemInfo[3]["name"] 				= "Corrosive Poison II";
 BuyPoisonsItemInfo[4]["name"] 				= "T\195\182dliches Gift V";
-BuyPoisonsItemInfo[5]["name"] 				= "Gedanken benebelndes Gift III";
-BuyPoisonsItemInfo[6]["name"] 				= "Wundgift";
-BuyPoisonsItemInfo[7]["name"] 				= "Verkr\195\188ppelndes Gift II";
-BuyPoisonsItemInfo[8]["name"] 				= "Agitating Poison";
-BuyPoisonsItemInfo[9]["name"]				= "Blitzstrahlpulver";
+BuyPoisonsItemInfo[5]["name"] 				= "Corrosive Poison";
+BuyPoisonsItemInfo[6]["name"] 				= "T\195\182dliches Gift IV";
+BuyPoisonsItemInfo[7]["name"] 				= "Gedanken benebelndes Gift III";
+BuyPoisonsItemInfo[8]["name"] 				= "Wundgift";
+BuyPoisonsItemInfo[9]["name"] 				= "Verkr\195\188ppelndes Gift II";
+BuyPoisonsItemInfo[10]["name"] 				= "Agitating Poison";
+BuyPoisonsItemInfo[11]["name"]				= "Blitzstrahlpulver";
 
 BuyPoisonsItemInfo[1]["shortkey"] = "dis";
 BuyPoisonsItemInfo[2]["shortkey"] = "inst";
-BuyPoisonsItemInfo[3]["shortkey"] = "cor";
-BuyPoisonsItemInfo[4]["shortkey"] = "deadly";
-BuyPoisonsItemInfo[5]["shortkey"] = "mind";
-BuyPoisonsItemInfo[6]["shortkey"] = "wound";
-BuyPoisonsItemInfo[7]["shortkey"] = "crip";
-BuyPoisonsItemInfo[8]["shortkey"] = "agi";
-BuyPoisonsItemInfo[9]["shortkey"] = "fp1";
+BuyPoisonsItemInfo[3]["shortkey"] = "cor2";
+BuyPoisonsItemInfo[4]["shortkey"] = "deadly2";
+BuyPoisonsItemInfo[5]["shortkey"] = "cor1";
+BuyPoisonsItemInfo[6]["shortkey"] = "deadly1";
+BuyPoisonsItemInfo[7]["shortkey"] = "mind";
+BuyPoisonsItemInfo[8]["shortkey"] = "wound";
+BuyPoisonsItemInfo[9]["shortkey"] = "crip";
+BuyPoisonsItemInfo[10]["shortkey"] = "agi";
+BuyPoisonsItemInfo[11]["shortkey"] = "fp1";
 
 
 end
