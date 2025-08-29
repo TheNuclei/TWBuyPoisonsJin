@@ -16,11 +16,11 @@ BUYPOISONS_HELP_MESSAGE = {
 "Commande:  (Please excuse English.)",
 	"/bp wound X 	Buy Components for X Amount of Wound Poison",
 	"/bp crip X 	Buy Components for X Amount of Crippling Poison II",
-	"/bp deadly X 	Buy Components for X Amount of Deadly Poison",
+	"/bp mortelY X 	Buy Components for X Amount of Deadly Poison at Y rank",
 	"/bp mind X 	Buy Components for X Amount of Mind-numbing Poison III",
 	"/bp inst X 	Buy Components for X Amount of Instant Poison VI",
 	"/bp dis X 		Buy Components for X Amount of Dissolvent Poison II",
-	"/bp cor X 		Buy Components for X Amount of Corrosive Poison II",
+	"/bp corY X 	Buy Components for X Amount of Corrosive Poison at Y rank",
 	"/bp agi X  	Buy Components for X Amount of Agitating Poison",
 	"/bp fp X Buy X Flash Powder",
 	"e.g. '/bp dis 10' will buy all components needed for 10 lots of level 2 Dissolvent Poison.",
@@ -75,16 +75,20 @@ BuyPoisonsItemInfo[1]["name"] 				= "Poison Dissolvant II";
 BuyPoisonsItemInfo[2]["name"] 				= "Poison Instantan\195\169 VI";
 BuyPoisonsItemInfo[3]["name"] 				= "Poison Corrosif II";
 BuyPoisonsItemInfo[4]["name"] 				= "Poison Mortel V";
-BuyPoisonsItemInfo[5]["name"] 				= "Distraction Mentale III";
-BuyPoisonsItemInfo[6]["name"] 				= "Poison Affaiblissant"
-BuyPoisonsItemInfo[7]["name"] 				= "Poison Douloureux II";
-BuyPoisonsItemInfo[8]["name"] 				= "Poison Agitation";
-BuyPoisonsItemInfo[9]["name"]				= "Flash Powder";
+BuyPoisonsItemInfo[5]["name"] 				= "Poison Corrosif";
+BuyPoisonsItemInfo[6]["name"] 				= "Poison Mortel IV";
+BuyPoisonsItemInfo[7]["name"] 				= "Distraction Mentale III";
+BuyPoisonsItemInfo[8]["name"] 				= "Poison Affaiblissant"
+BuyPoisonsItemInfo[9]["name"] 				= "Poison Douloureux II";
+BuyPoisonsItemInfo[10]["name"] 				= "Poison Agitation";
+BuyPoisonsItemInfo[11]["name"]				= "Flash Powder";
 
 BuyPoisonsItemInfo[1]["shortkey"] = "dis";
 BuyPoisonsItemInfo[2]["shortkey"] = "inst";
-BuyPoisonsItemInfo[3]["shortkey"] = "cor";
-BuyPoisonsItemInfo[4]["shortkey"] = "deadly";
+BuyPoisonsItemInfo[3]["shortkey"] = "cor2";
+BuyPoisonsItemInfo[4]["shortkey"] = "mortel2";
+BuyPoisonsItemInfo[4]["shortkey"] = "cor1";
+BuyPoisonsItemInfo[4]["shortkey"] = "mortel1";
 BuyPoisonsItemInfo[5]["shortkey"] = "mind";
 BuyPoisonsItemInfo[6]["shortkey"] = "wound";
 BuyPoisonsItemInfo[7]["shortkey"] = "crip";
