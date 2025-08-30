@@ -33,7 +33,7 @@ end
 function BuyPoisons_OnEvent(event)
 	BuyPoisons_Verify_Saved_Data();
 	if ((event=="MERCHANT_SHOW") and (UnitClass("player")==BUYPOISONS_CLASS)) then
-		local is_a_poison_vendor = Index_merchant(BUYPOISONS_COMPONENT_DUST_OF_DECAY);
+		local is_a_poison_vendor = Index_merchant(BUYPOISONS_COMPONENT_MAIDENS_ANGUISH);
 		local is_a_flash_vendor = Index_merchant(BUYPOISONS_COMPONENT_FLASH_POWDER);
 		if (is_a_poison_vendor) then	
 			if (BuyPoisonsData[TheServer][ThePlayer]["Use_UI"] == 1) then
